@@ -1,0 +1,17 @@
+# .gitignore file
+# Ignore binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+my_prog
+ex1_executable
+
+# Ignore output logs
+output_*.txt
+error_*.txt
+out_*.txt
+err_*.txt
+
+# Ignore OS files
+.DS_Store
