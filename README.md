@@ -11,7 +11,7 @@ The projects demonstrate various parallel programming techniques using **C++** a
 
 ## 📂 Project List
 
-### [Exercise 1: Numerical Integration (Riemann Sum)](./Ex1)
+### [Exercise 1: Numerical Integration (Riemann Sum)](./ex1)
 * **Description:** Implemented a parallel algorithm to approximate integrals using the Rectangle Rule.
 * **Key Concepts:** Grid/Block structure, basic memory transfer (Host-to-Device), performance benchmarking vs CPU.
 * **Results:** Achieved ~75x speedup on large datasets (N=100,000).
